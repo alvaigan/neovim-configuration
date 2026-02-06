@@ -1,5 +1,5 @@
 # Overview
-This is my Neovim configuration. Built from scratch.
+This is my Neovim configuration. I built this configuration for more easier and simple.
 
 # Requirement
 - Neovim v0.11.6
