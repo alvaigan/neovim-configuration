@@ -11,3 +11,9 @@ vim.opt.smartindent = true
 vim.opt.swapfile = false
 vim.opt.backup = false
 vim.opt.clipboard = "unnamedplus"
+
+vim.opt.sessionoptions = {
+    "buffers",
+    "tabpages",
+    "globals",
+}
